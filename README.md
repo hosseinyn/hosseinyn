@@ -1,7 +1,7 @@
 # Who am i?
 **I am hossein! An iranian programmer🇮🇷! I love programming and cybersecurity. I want to put tools and projects for hackers and programmers on my GitHub.👨‍💻🔥**
 # My skills 💪:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,tailwind,react,next,python,linux,c,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,tailwind,react,next,python,linux,bash,c,git)](https://skillicons.dev)
 
 **=======================**
 
