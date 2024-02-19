@@ -13,10 +13,10 @@
 **I am also a front-end web developer! Although I work less in this field, it is one of my favorites👨‍💻**
 
 #I like to learn 🧑‍🎓 :
-- #### <img src="https://skillicons.dev/icons?i=flutter" width="200"/> Flutter 
-- #### [![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) [![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://skillicons.dev)Vue/Nuxt
-- #### [![C#](https://skillicons.dev/icons?i=c#)](https://skillicons.dev)C Sharp
-- #### [![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)Unity 
+- #### <img src="https://skillicons.dev/icons?i=flutter" width="72"/> Flutter 
+- #### <img src="https://skillicons.dev/icons?i=vue" width="72"/> <img src="https://skillicons.dev/icons?i=nuxt" width="72"/>Vue/Nuxt
+- #### <img src="https://skillicons.dev/icons?i=c#" width="72"/>C Sharp
+- #### <img src="https://skillicons.dev/icons?i=unity" width="72"/>Unity 
 
 # Hacking 🐍 :
 **I love web application hacking and web application security! But I'm new now! 🥲 **
