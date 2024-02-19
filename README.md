@@ -13,8 +13,8 @@
 **I am also a front-end web developer! Although I work less in this field, it is one of my favorites👨‍💻**
 
 #I like to learn 🧑‍🎓 :
-- #### [![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)Flutter 
-- # [![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) [![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://skillicons.dev)Vue/Nuxt
+- #### <img src="https://skillicons.dev/icons?i=flutter" width="200"/> Flutter 
+- #### [![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) [![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://skillicons.dev)Vue/Nuxt
 - #### [![C#](https://skillicons.dev/icons?i=c#)](https://skillicons.dev)C Sharp
 - #### [![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)Unity 
 
