@@ -12,16 +12,11 @@
 
 **I am also a front-end web developer! Although I work less in this field, it is one of my favorites👨‍💻**
 
-# I like to learn 🧑‍🎓 :
-
-  [![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
-- ## Flutter
-  [![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) [![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://skillicons.dev)
-- ## Vue/Nuxt
-  [![C#](https://skillicons.dev/icons?i=c#)](https://skillicons.dev)
-- ## C Sharp
-  [![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
-- ## Unity 
+#I like to learn 🧑‍🎓 :
+- #### [![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)Flutter 
+- #### [![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) [![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://skillicons.dev)Vue/Nuxt
+- #### [![C#](https://skillicons.dev/icons?i=c#)](https://skillicons.dev)C Sharp
+- #### [![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)Unity 
 
 # Hacking 🐍 :
 **I love web application hacking and web application security! But I'm new now! 🥲 **
@@ -35,9 +30,6 @@
 - ##### Coffee ☕
 # My Social Media 🌍 :
 
-  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
-- #### Twitter: [link](https://twitter.com/hosseinyn91 "twitter")
-  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
-- #### Instagram: [link](https://www.instagram.com/hosseinyadegarnia/ "link")
-  [![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-- #### GitHub: [link](https://github.com/hosseinyn)
+####  - [![Twitter](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)  Twitter: [link](https://twitter.com/hosseinyn91 "twitter")
+#### - [![Instagram](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) Instagram: [link](https://www.instagram.com/hosseinyadegarnia/ "link")
+#### - [![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev) GitHub: [link](https://github.com/hosseinyn)
