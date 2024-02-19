@@ -1,7 +1,7 @@
 # Who am i?
 **I am hossein! An iranian programmer! I love programming and cybersecurity. I want to put tools and projects for hackers and programmers on my GitHub.👨‍💻🟢**
 # My skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,vue,python,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,react,next,python,linux,git)](https://skillicons.dev)
 
 **=======================**
 
@@ -23,4 +23,4 @@
 #My Social Media:
 - Twitter [link](https://twitter.com/hosseinyn91 "twitter")
 - Reddit: [link](https://www.reddit.com/user/hosseinyn "link")
-- Instagram: [link](https://www.instagram.com/hossein__yn/ "link")
+- Instagram: [link](https://www.instagram.com/hosseinyadegarnia/ "link")
