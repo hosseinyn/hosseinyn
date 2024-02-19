@@ -13,10 +13,10 @@
 **I am also a front-end web developer! Although I work less in this field, it is one of my favorites👨‍💻**
 
 #I like to learn 🧑‍🎓 :
-- #### <img src="https://skillicons.dev/icons?i=flutter" height="50"/> Flutter 
-- #### <img src="https://skillicons.dev/icons?i=vue" width="72"/> <img src="https://skillicons.dev/icons?i=nuxt" width="72"/>Vue/Nuxt
-- #### <img src="https://skillicons.dev/icons?i=c#" width="72"/>C Sharp
-- #### <img src="https://skillicons.dev/icons?i=unity" width="72"/>Unity 
+- ####    [![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+- #### [![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) [![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://skillicons.dev)
+- #### [![C#](https://skillicons.dev/icons?i=c#)](https://skillicons.dev)
+- #### [![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 
 # Hacking 🐍 :
 **I love web application hacking and web application security! But I'm new now! 🥲 **
@@ -30,6 +30,6 @@
 - ##### Coffee ☕
 # My Social Media 🌍 :
 
-####  - [![Twitter](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)  Twitter: [link](https://twitter.com/hosseinyn91 "twitter")
-#### - [![Instagram](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) Instagram: [link](https://www.instagram.com/hosseinyadegarnia/ "link")
-#### - [![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev) GitHub: [link](https://github.com/hosseinyn)
+####  - [![Twitter](https://skillicons.dev/icons?i=twitter "Twitter")](https://twitter.com/hosseinyn91 "Twitter")
+#### - [![Instagram](https://skillicons.dev/icons?i=instagram "Instagram")](https://instagram.com/hosseinyadegarnia "Instagram")
+#### - [![GitHub](https://skillicons.dev/icons?i=github "GitHub")](https://github.com/hosseinyn "GitHub")
