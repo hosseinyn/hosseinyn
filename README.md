@@ -30,6 +30,6 @@
 - ##### Coffee ☕
 # My Social Media 🌍 :
 
-####  - [![Twitter](https://skillicons.dev/icons?i=twitter "Twitter")](https://twitter.com/hosseinyn91 "Twitter")
-#### - [![Instagram](https://skillicons.dev/icons?i=instagram "Instagram")](https://instagram.com/hosseinyadegarnia "Instagram")
-#### - [![GitHub](https://skillicons.dev/icons?i=github "GitHub")](https://github.com/hosseinyn "GitHub")
+- [![Twitter](https://skillicons.dev/icons?i=twitter "Twitter")](https://twitter.com/hosseinyn91 "Twitter")
+- [![Instagram](https://skillicons.dev/icons?i=instagram "Instagram")](https://instagram.com/hosseinyadegarnia "Instagram")
+- [![GitHub](https://skillicons.dev/icons?i=github "GitHub")](https://github.com/hosseinyn "GitHub")
