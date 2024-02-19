@@ -14,7 +14,7 @@
 
 # I like to learn 🧑‍🎓 :
 
-   [![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+  [![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 - ## Flutter
   [![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) [![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://skillicons.dev)
 - ## Vue/Nuxt
