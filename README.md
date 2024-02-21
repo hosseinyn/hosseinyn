@@ -12,14 +12,14 @@
 
 **I am also a front-end web developer! Although I work less in this field, it is one of my favorites👨‍💻**
 
-#I like to learn 🧑‍🎓 :
+# I like to learn 🧑‍🎓 :
 - ####    [![Flutter](https://skillicons.dev/icons?i=flutter "Flutter")](https://skillicons.dev)
 - #### [![Vue](https://skillicons.dev/icons?i=vue "Vue")](https://skillicons.dev) [![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://skillicons.dev)
 - #### [![C#](https://skillicons.dev/icons?i=c# "C#")](https://skillicons.dev)
 - #### [![Unity](https://skillicons.dev/icons?i=unity "Unity")](https://skillicons.dev)
 
 # Hacking 🐍 :
-**I love web application hacking and web application security! But I'm new now! 🥲 **
+** I love web application hacking and web application security! But I'm new now! 🥲 **
 
 # My favorites :)❤️ :
 
