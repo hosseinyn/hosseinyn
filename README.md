@@ -19,7 +19,7 @@
 - #### [![Unity](https://skillicons.dev/icons?i=unity "Unity")](https://skillicons.dev)
 
 # Hacking 🐍 :
-** I love web application hacking and web application security! But I'm new now! 🥲 **
+**I love web application hacking and web application security! But I'm new now! 🥲**
 
 # My favorites :)❤️ :
 
