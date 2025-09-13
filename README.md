@@ -1,14 +1,14 @@
 # Who am i?
 **I am hossein! An iranian programmer🇮 && full-stack developer. I love programming and cybersecurity. I want to put tools and projects for hackers and programmers on my GitHub.👨‍💻🔥**
 # My skills 💪:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,bootstrap,tailwind,react,next,python,linux,bash,windows,powershell,c,git,flask,django,fastapi,ai,go,vue,express,php,mysql,laravel,docker,redis,graphql,ruby,rails,perl)](https://github.com/hosseinyn)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,npm,yarn,jquery,bootstrap,tailwind,react,next,python,linux,bash,windows,powershell,c,git,flask,django,fastapi,ai,go,vue,express,php,mysql,laravel,docker,redis,graphql,ruby,rails,perl)](https://github.com/hosseinyn)
 
 **=======================**
 
 **I also like cyber security && pentesting and care about security 🔏 **
 
 # I like to learn 🧑‍🎓 :
-- ####  [![Nuxt](https://skillicons.dev/icons?i=nuxt "Nuxt")](https://github.com/hosseinyn) [![C#](https://skillicons.dev/icons?i=cs "C#")](https://github.com/hosseinyn) [![C++](https://skillicons.dev/icons?i=cpp "C++")](https://github.com/hosseinyn) [![Unity](https://skillicons.dev/icons?i=unity "Unity")](https://github.com/hosseinyn)  [![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")](https://github.com/hosseinyn)
+- ####  [![Nuxt](https://skillicons.dev/icons?i=nuxt "Nuxt")](https://github.com/hosseinyn) [![C#](https://skillicons.dev/icons?i=cs "C#")](https://github.com/hosseinyn) [![C++](https://skillicons.dev/icons?i=cpp "C++")](https://github.com/hosseinyn) [![Unity](https://skillicons.dev/icons?i=unity "Unity")](https://github.com/hosseinyn)
 
 # My favorites :)❤️ :
 
