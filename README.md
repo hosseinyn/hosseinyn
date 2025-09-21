@@ -1,7 +1,7 @@
 # Who am i?
 **I am hossein! An iranian programmer🇮 && full-stack developer. I love programming and cybersecurity. I want to put tools and projects for hackers and programmers on my GitHub.👨‍💻🔥**
 # My skills 💪:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,npm,yarn,pnpm,nodejs,jquery,bootstrap,tailwind,react,next,python,linux,bash,windows,powershell,c,cpp,cs,dotnet,git,flask,django,fastapi,ai,go,vue,express,nestjs,php,mysql,laravel,docker,redis,graphql,ruby,rails,perl,rust,actix,sqlite,postgresql,arduino)](https://github.com/hosseinyn)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,npm,yarn,pnpm,nodejs,jquery,bootstrap,tailwind,react,next,python,linux,bash,windows,powershell,c,cpp,cs,dotnet,git,flask,django,fastapi,ai,go,vue,express,nestjs,php,mysql,laravel,docker,redis,graphql,ruby,rails,perl,rust,actix,sqlite,postgresql,arduino,java,nginx)](https://github.com/hosseinyn)
 
 **=======================**
 
