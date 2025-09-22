@@ -1,25 +1,15 @@
-# Who am i?
-**I am hossein! An iranian programmer🇮 && full-stack developer. I love programming and cybersecurity. I want to put tools and projects for hackers and programmers on my GitHub.👨‍💻🔥**
+# Who am I?
+**I am hossein! An Iranian programmer && full-stack developer. I love programming , cyber security , electronics. I love to learn , I mean anything  ! I love to learn anything and I'll do.**
+
 # My skills 💪:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,npm,yarn,pnpm,nodejs,jquery,bootstrap,tailwind,react,next,python,linux,bash,windows,powershell,c,cpp,cs,dotnet,git,flask,django,fastapi,ai,go,vue,express,nestjs,php,mysql,laravel,docker,redis,graphql,ruby,rails,perl,rust,actix,sqlite,postgresql,arduino,java,nginx)](https://github.com/hosseinyn)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,npm,yarn,pnpm,vite,nodejs,jquery,bootstrap,tailwind,mui,threejs,react,next,python,linux,bash,windows,powershell,c,cpp,cs,dotnet,git,github,gitlab,flask,django,fastapi,ai,go,vue,express,nestjs,php,mysql,laravel,docker,redis,graphql,ruby,rails,perl,rust,actix,rocket,sqlite,postgresql,arduino,java,nginx,kotlin,mongodb,nuxtjs,prisma,unity)](https://github.com/hosseinyn)
 
-**=======================**
+# Tools and Ides
+[![ide](https://skillicons.dev/icons?i=vscode,webstorm,pycharm,phpstorm,visualstudio,vim,neovim,postman)](https://github.com/hosseinyn)
 
-**I also like cyber security && pentesting and care about security 🔏 **
-
-# I like to learn 🧑‍🎓 :
-- ####  [![Nuxt](https://skillicons.dev/icons?i=nuxt "Nuxt")](https://github.com/hosseinyn) [![Unity](https://skillicons.dev/icons?i=unity "Unity")](https://github.com/hosseinyn)
+# OS 
+[![Os](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,arch)](https://github.com/hosseinyn)
 
 # My favorites :)❤️ :
 
-- ##### Game🎮
-- ##### Hacking && Cyber Security 👨‍💻
-- ##### Programming📝
-- ##### Social Media📰
-- ##### Coffee ☕
-- ##### Teaching 🧑‍🏫
-# My Social Media 🌍 :
-
-- [![Twitter](https://skillicons.dev/icons?i=twitter "Twitter")](https://twitter.com/hosseinyn91 "Twitter") [![Instagram](https://skillicons.dev/icons?i=instagram "Instagram")](https://instagram.com/hosseinyadegarnia "Instagram") [![GitHub](https://skillicons.dev/icons?i=github "GitHub")](https://github.com/hosseinyn "GitHub")
-
-- [Youtube❤️](https://www.youtube.com/channel/UCNxZTpqj7bCLkaWBpvyirSQ "Youtube")
+👾 I love games , electronic , horror , build new things and the end.👾
