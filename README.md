@@ -4,12 +4,9 @@
 # My skills 💪:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,npm,yarn,pnpm,vite,nodejs,jquery,bootstrap,tailwind,mui,threejs,react,next,python,linux,bash,windows,powershell,c,cpp,cs,dotnet,git,github,gitlab,flask,django,fastapi,ai,go,vue,express,nestjs,php,mysql,laravel,docker,redis,graphql,ruby,rails,perl,rust,actix,rocket,sqlite,postgresql,arduino,java,nginx,kotlin,mongodb,nuxtjs,prisma,unity)](https://github.com/hosseinyn)
 
-# Tools and Ides
-[![ide](https://skillicons.dev/icons?i=vscode,webstorm,pycharm,phpstorm,visualstudio,vim,neovim,postman)](https://github.com/hosseinyn)
-
-# OS 
-[![Os](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,arch)](https://github.com/hosseinyn)
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinyn&count_private=true&show_icons=true&theme=radical&hide_border=true](https://github.com/rahulkarda/readme-components)
 
 # My favorites :)❤️ :
 
 👾 I love games , electronic , horror , build new things and the end.👾
+
